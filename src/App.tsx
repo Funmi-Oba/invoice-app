@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 // Our two context providers (global state)
 import { ThemeProvider } from "./context/ThemeContext";
@@ -27,7 +27,6 @@ export default function App() {
             <main className="flex-1 pt-[72px] lg:pt-0">
               <Routes>
                 <Route path="/" element={<Home />} />
-
                 <Route path="/invoice/:id" element={<InvoiceDetailPage />} />
               </Routes>
             </main>
