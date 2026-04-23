@@ -3,10 +3,10 @@
 A fully functional invoice management application built with React, TypeScript and Tailwind CSS.
 
 ## Live Demo
-[View Live App](https://your-vercel-url-here.vercel.app) ← replace this
+[View Live App](https://funmi-oba.github.io/invoice-app/) 
 
 ## GitHub Repository
-[View Code](https://github.com/yourname/invoice-app) ← replace this
+[View Code](https://github.com/Funmi-Oba/invoice-app) 
 
 ---
 
@@ -23,7 +23,7 @@ A fully functional invoice management application built with React, TypeScript a
 ## Setup Instructions
 
 1. Clone the repository:
-   git clone https://github.com/yourname/invoice-app.git
+   git clone https://github.com/Funmi-Oba/invoice-app.git
 
 2. Navigate into the project:
    cd invoice-app
